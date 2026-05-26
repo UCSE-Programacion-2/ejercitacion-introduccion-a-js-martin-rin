@@ -21,7 +21,7 @@ const nuevoModulo = 21 % 5 === 1;
 // Pensá este orden como si siguiera ejecutándose línea por línea (hoisting de `var`):
 // console.log(typeof y);
 // var y = 10;
-// ¿Qué string devuelve `typeof y` antes de llegar al `=` ? Reemplazá null por ese string entre comillas.
+// ¿Qué string devuelve `typeof y` antes de llegar al `=` ? Reemplazá null por ese string entre comillass.
 const resultadoHoisting = 'undefined';
 
 // En los próximos problemas, deberás completar la función.
